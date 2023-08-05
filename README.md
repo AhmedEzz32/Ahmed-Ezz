@@ -13,3 +13,26 @@ Hi, I'm Ahmed Ezz, Mobile App Developer 🚀.
 ### 💎 Fav Quotes: 
 - I will Not Give Up Until I Reach..
 - "Life is about Solving Problems".
+
+
+
+
+
+
+
+
+
+
+
+Hi, I'm Mohamed 👋
+   
+
+
+
+I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
+
+🔭 I'm a software developer @Deliveryhero in Berlin, Germany
+🔍 I have 2 live apps:
+Quran-tab (chrome extension)
+Wazaker App (Android version, iOS version)
+💬 Ask me about ReactJs and Frontend

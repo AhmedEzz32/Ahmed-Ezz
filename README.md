@@ -1,7 +1,7 @@
 ### Hi there 👋🏻 I'm Ahmed Ezz
-[![Linkedin Badge](https://img.shields.io/badge/YoussefAhmed-30302f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ezz-888228254/)
-[![Facebook Badge](https://img.shields.io/badge/YoussefGuba-30302f?style=flat&logo=facebook)](https://www.facebook.com/ahmed.ezz.965580)
-[![Gmail Badge](https://img.shields.io/badge/youssefguba@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:ahmed.mobiledev@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/AhmedEzz-30302f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ezz-888228254/)
+[![Facebook Badge](https://img.shields.io/badge/AhmedEzz-30302f?style=flat&logo=facebook)](https://www.facebook.com/ahmed.ezz.965580)
+[![Gmail Badge](https://img.shields.io/badge/ahmed.mobiledev@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:ahmed.mobiledev@gmail.com)
 
 Hi, I'm Ahmed Ezz, Mobile App Developer 🚀.
 - 🐳 Flutter Developer , 
